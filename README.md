@@ -1,8 +1,8 @@
 
 ## OnionOrNot
-label = 1 (Onion)
-label = 0 (Not the Onion)
+- label = 1 (Onion)
+- label = 0 (Not the Onion)
 
 ## Baseball Game Logs (1876 - 2016)
 
-## Jeopardy Questions 
+## Jeopardy Questions (1984 - 2012)
