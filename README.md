@@ -9,7 +9,7 @@
 - 171,907 records
 - 136 mb
 
-## Jeopardy Questions (1984 - 2020)
+## Jeopardy Questions (1984 - 2020) (tab delimited)
 - 376,266 records
 - 56 mb
 
