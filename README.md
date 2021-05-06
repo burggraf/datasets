@@ -9,9 +9,9 @@
 - 171,907 records
 - 136 mb
 
-## Jeopardy Questions (1984 - 2012)
-- 216,930 records
-- 35 mb
+## Jeopardy Questions (1984 - 2020)
+- 376,266 records
+- 56 mb
 
 ## US Zip Codes (April 2021)
 - 72,866 records
