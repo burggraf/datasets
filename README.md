@@ -17,3 +17,6 @@
 - 72,866 records
 - 6 mb
 
+## US Advertising Slogans (tab delimited)
+- 62 records
+- 2 kb
